@@ -15,3 +15,8 @@ Question 6: Git fetch gets the changes from the remote repository but doesn't up
 Question 7: Git push updates the remote repository with the local repository code
 
 Question 8: You first of all need to add the modified/new fils to the staging area, allowing them to be ready, this is done by using the 'git add' function.
+
+---- Feedback ---------
+Marks (11/14)
+2.2 - Incorrect Answer, it should be one of Github/GitLab/BitBucket
+2.8 - Incorrect Answer, Expected answer is -> git commit -m 'commit message'
