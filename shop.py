@@ -69,3 +69,6 @@ def shop():
 
 if __name__ == "__main__":
     shop()
+
+
+# --- Marks (10/12) The program is executing as expected when customer has enough balance to buy the product. And your program is producing runtime errors when trying to add more money. 

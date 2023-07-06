@@ -21,3 +21,5 @@ class ShopTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# Marks (9/14) -- Atleast 5 unit tests should be written to cover valid, invalid and boundary cases
