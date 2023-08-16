@@ -38,4 +38,6 @@ while True:
             current_url = base_url
 
     history.append(current_url)
-# 
+
+
+# Time complexity is: O(1) and the space complexity is O(n)
